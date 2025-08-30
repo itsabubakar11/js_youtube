@@ -1,0 +1,4 @@
+const accountId=123123
+let accountEmail="Abubakar@google.com"
+accountEmail="umar@google.com"
+console.table([accountEmail,accountId])
